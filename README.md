@@ -1,6 +1,6 @@
 # Tarea 7 — TDA Pila (Bitácora de Eventos USS Algoritmo)
 
-## Descripción
+## Introducción
 
 Este proyecto consiste en la implementación de una estructura de datos tipo **Pila (Stack)** en Java para simular el sistema de bitácora de eventos de la nave USS Algoritmo.
 
@@ -45,7 +45,7 @@ java -cp src Main
 
 ---
 
-## Resultado Esperado
+## Resultado que se Espera
 
 El programa registra seis eventos, detecta un error crítico y elimina los últimos tres registros.  
 Finalmente muestra el estado actual de la bitácora indicando:
@@ -58,5 +58,5 @@ Finalmente muestra el estado actual de la bitácora indicando:
 ## Autor
 
 Dylan Paz  
-Ingeniería en Sistemas  
+Ingeniería de Sistemas  
 Universidad Da Vinci de Guatemala
